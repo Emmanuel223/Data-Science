@@ -1,0 +1,9 @@
+## Basic addition and substitution
+
+print("Easy Maths")
+a = 1
+b = 6
+
+a + b
+7
+
